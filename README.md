@@ -28,4 +28,4 @@ Meta描述：探索如何在免费平台上观看最新的日本影片。我们�
 
 公开资源网站：有些网站通过合法途径发布日本影片的公开资源，通常会提供免费的观看选择，但需要注意这些网站的合法性和安全性。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/zzy1238/34677 ）</span>
